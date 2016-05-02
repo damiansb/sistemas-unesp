@@ -33,7 +33,7 @@ Se tudo que você quer é utilizar o template já compilado, basta baixar a past
 
 ### Opção 3) Utilização com link direto para o Portal de Sistemas
 
-Se você não quer fazer o download de nada e utilizar sempre a versão mais rececente do template, pode incluir os arquivos diretamente do Portal de Sistemas da Unesp. Basta fazer da seguinte forma:
+Se você não quer fazer o download de nada e pretende utilizar sempre a versão mais rececente do template, pode incluir os arquivos diretamente do Portal de Sistemas da Unesp. Basta fazer da seguinte forma:
 
 Antes do ```</head>``` de sua aplicação, cole o seguinte código:
 
