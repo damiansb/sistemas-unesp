@@ -44,7 +44,7 @@ Antes do ```</head>``` de sua aplicação, cole o seguinte código:
 Se você pretende usar o JavaScript (não obrigatório) do template, antes do ```</body>``` de sua aplicação, cole o seguinte código:
 
 ```html
-<link rel="stylesheet" href="https://sistemas.unesp.br/css/style.css">
+<script src="https://sistemas.unesp.br/js/app.js"></script>
 ```
 
 É importante salientar que alguns componentes do template **não irão funcionar** sem o JavaScript. Para mais informações, veja a [documentação oficial do Foundation 6](http://foundation.zurb.com/sites/docs/) e verifique se o componente que você deseja utilizar necessita ou não do JavaScript.
